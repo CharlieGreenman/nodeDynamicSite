@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/CharlieGreenman/nodeDynamicSite/issues"
   },
-  "homepage": "https://github.com/CharlieGreenman/nodeDynamicSite#readme"
+  "homepage": "https://github.com/CharlieGreenman/nodeDynamicSite#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
